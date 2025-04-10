@@ -22,6 +22,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ErAgOn-AmAnSiRoHi&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<picture>
-  <source srcset="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGlrZDAxaDNuMDZxaDRheXNqazRrMW5vYjhoanNkenVzdWU1aGZ0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378BaFZ8AUJ20NvW/giphy.gif" />
-</picture>
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGlrZDAxaDNuMDZxaDRheXNqazRrMW5vYjhoanNkenVzdWU1aGZ0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378BaFZ8AUJ20NvW/giphy.gif)
