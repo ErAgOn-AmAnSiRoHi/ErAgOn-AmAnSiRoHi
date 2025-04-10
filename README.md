@@ -23,3 +23,8 @@
 [![](https://visitcount.itsvg.in/api?id=ErAgOn-AmAnSiRoHi&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWo3bmxzOGZpcjZqY2pjMG94MjhnMGhsamRpbHEyMmgyYXVuMTUzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWo3bmxzOGZpcjZqY2pjMG94MjhnMGhsamRpbHEyMmgyYXVuMTUzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="400" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazByNjZ6aW1haXA1OW02cjcwOXlieGp0ZHQzYjdjZ2h5cGNubjlsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="400" /> 
+</p>
