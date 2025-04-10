@@ -10,14 +10,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ErAgOn-AmAnSiRoHi&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErAgOn-AmAnSiRoHi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErAgOn-AmAnSiRoHi/ErAgOn-AmAnSiRoHi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErAgOn-AmAnSiRoHi/ErAgOn-AmAnSiRoHi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ErAgOn-AmAnSiRoHi/ErAgOn-AmAnSiRoHi/output/github-snake.svg" />
+</picture>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ErAgOn-AmAnSiRoHi&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErAgOn-AmAnSiRoHi/ErAgOn-AmAnSiRoHi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErAgOn-AmAnSiRoHi/ErAgOn-AmAnSiRoHi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ErAgOn-AmAnSiRoHi/ErAgOn-AmAnSiRoHi/output/github-snake.svg" />
-</picture>
